@@ -252,6 +252,14 @@
       @include on-tablet {
         display: none;
       }
+
+      &--desktop {
+        display: none;
+
+        @include on-tablet {
+          display: block;
+        }
+      }
     }
   }
 

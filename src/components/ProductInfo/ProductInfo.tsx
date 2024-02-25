@@ -116,9 +116,11 @@ export const ProductInfo: React.FC<Props> = ({ product, productSelected }) => {
               <div className="product-info__colors">
                 <p className="product-info__info-main--text">
                   Available colors
-                  <p className="product-info__id">
-                    {`ID: ${productSelected?.id}`}
-                  </p>
+                  <div className="product-info__id--container--desktop">
+                    <p className="product-info__id">
+                      {`ID: ${productSelected?.id}`}
+                    </p>
+                  </div>
                 </p>
 
                 <div className="product-info__color-container">
