@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.9fa85f24.css",
+    "main.css": "./static/css/main.4e013f11.css",
     "main.js": "./static/js/main.4cace1c0.js",
     "static/media/category-tablets.png": "./static/media/category-tablets.51782e18205a1ca01ce8.png",
     "static/media/banner-phones2.png": "./static/media/banner-phones2.4dd52cfdf1ff47cd459d.png",
@@ -37,11 +37,11 @@
     "static/media/minus-main.svg": "./static/media/minus-main.cce4862297a181fdf808.svg",
     "static/media/minus.svg": "./static/media/minus.cecb4be39afa7b933ec1.svg",
     "index.html": "./index.html",
-    "main.9fa85f24.css.map": "./static/css/main.9fa85f24.css.map",
+    "main.4e013f11.css.map": "./static/css/main.4e013f11.css.map",
     "main.4cace1c0.js.map": "./static/js/main.4cace1c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fa85f24.css",
+    "static/css/main.4e013f11.css",
     "static/js/main.4cace1c0.js"
   ]
 }
