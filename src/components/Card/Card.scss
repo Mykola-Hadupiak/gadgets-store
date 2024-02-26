@@ -18,6 +18,10 @@
     padding: 16px;
   }
 
+  @media (max-width: 356px) {
+    padding: 8px;
+  }
+
   &__container {
     display: flex;
     align-items: center;
@@ -42,7 +46,11 @@
   &__link {
     display: flex;
     align-items: center;
-    gap: var(--gap-between-el);;
+    gap: var(--gap-between-el);
+
+    @media (max-width: 356px) {
+      --gap-between-el: 18px;
+    }
   }
 
   &__product-name {

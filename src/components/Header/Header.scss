@@ -65,6 +65,10 @@
       padding: 16px 20px;
     }
 
+    @media (max-width: 368px) {
+      padding: 16px 8px;
+    }
+
     @extend %button;
 
     color: $main-color;

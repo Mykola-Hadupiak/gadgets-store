@@ -14,4 +14,8 @@
   &--card {
     padding-block: 10px 9px;
   }
+
+  @include on-mobile {
+    max-width: 200px;
+  }
 }

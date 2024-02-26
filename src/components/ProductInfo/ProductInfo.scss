@@ -41,6 +41,10 @@
       min-width: 350px;
     }
 
+    @media (max-width: 380px) {
+      min-width: 300px;
+    }
+
     @media (max-width: 700px) {
       flex-direction: column-reverse;
       width: 100%;
