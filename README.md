@@ -1,4 +1,4 @@
-# [Gadgets store](https://mykola-hadupiak.github.io/gadgets_store/) 
+# [Gadgets store](https://mykola-hadupiak.github.io/gadgets-store/) 
 
 This is a full-fledged store that has product categories, product cards, sliders, pagination, carousel, breadcrumbs, cart, search and favorites.
 
@@ -45,7 +45,7 @@ On this page you can also see breadcrumbs, the ability to sort products and sele
 ![4](https://github.com/Mykola-Hadupiak/gadgets_store/assets/114435233/34f22de0-2b8d-422f-ae73-ad3f72e206af)
   
 # Demo:
-[DEMO LINK](https://mykola-hadupiak.github.io/gadgets_store/)
+[DEMO LINK](https://mykola-hadupiak.github.io/gadgets-store/)
 
 <img width="156" alt="Logo" src="https://github.com/Mykola-Hadupiak/gadgets_store/assets/114435233/bc4f17d6-1153-4371-a520-a38ff9a22f3c">
 
